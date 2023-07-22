@@ -47,6 +47,8 @@ Pinned posts of @davis.social :)
 - https://bsky.app/profile/davis.social/post/3k2qeuoecvl2i
 > grumpy birb
 - https://bsky.app/profile/davis.social/post/3jxlfxx5n4p23
+> dracarys pig
+- https://bsky.app/profile/davis.social/post/3jzlktivv6w2i
 > james hurley head
 - https://bsky.app/profile/davis.social/post/3jxzgngeh2i2s
 
