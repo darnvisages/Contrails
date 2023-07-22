@@ -5,6 +5,12 @@
 
 emotional-support-pets
 
+# isEnabled
+
+> Whether this feed should be published by the "Publish Feed Generators" step. Set to `true` or `false`.
+
+false
+
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.

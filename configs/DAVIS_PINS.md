@@ -35,6 +35,8 @@ Pinned posts of @davis.social :)
 - https://bsky.app/profile/davis.social/post/3k27akjusde2j
 > if you need me, I'll be in my mind post
 - https://bsky.app/profile/davis.social/post/3jz3qfgbhz22z
+> neil gaiman quote post of - if you need me, I'll be in my mind post
+- https://bsky.app/profile/neilhimself.neilgaiman.com/post/3jz42tfqrke2z
 > pug rincewind
 - https://bsky.app/profile/davis.social/post/3jzvuibkspa26
 > self notifying
