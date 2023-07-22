@@ -31,7 +31,16 @@ Pinned posts of @davis.social :)
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- https://bsky.app/profile/davis.social/post/3jwdykerhjf2v
+> intro post
+- https://bsky.app/profile/davis.social/post/3k27akjusde2j
+> if you need me, I'll be in my mind post
+- https://bsky.app/profile/davis.social/post/3jz3qfgbhz22z
+> pug rincewind
+- https://bsky.app/profile/davis.social/post/3jzvuibkspa26
+> self notifying
+- https://bsky.app/profile/davis.social/post/3jyyrtpupd32y
+> james hurley head
+- https://bsky.app/profile/davis.social/post/3jxzgngeh2i2s 
 
 # safeMode
 
