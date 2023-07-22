@@ -40,7 +40,15 @@ Pinned posts of @davis.social :)
 > self notifying
 - https://bsky.app/profile/davis.social/post/3jyyrtpupd32y
 > james hurley head
-- https://bsky.app/profile/davis.social/post/3jxzgngeh2i2s 
+- https://bsky.app/profile/davis.social/post/3jxzgngeh2i2s
+> portfolio day
+- https://bsky.app/profile/davis.social/post/3k2awrrtkbn2u
+> discworld death
+- https://bsky.app/profile/davis.social/post/3k27qgpabba2m
+> slaughter melon
+- https://bsky.app/profile/davis.social/post/3k2qeuoecvl2i
+> grumpy birb
+- https://bsky.app/profile/davis.social/post/3jxlfxx5n4p23
 
 # safeMode
 
