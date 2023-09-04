@@ -33,6 +33,8 @@ Pinned posts of @davis.social :)
 
 > intro post
 - https://bsky.app/profile/davis.social/post/3k6ln34htsq2v
+> portfolio day
+- https://bsky.app/profile/davis.social/post/3k2awrrtkbn2u
 > if you need me, I'll be in my mind post
 - https://bsky.app/profile/davis.social/post/3jz3qfgbhz22z
 > neil gaiman quote post of - if you need me, I'll be in my mind post
@@ -43,10 +45,10 @@ Pinned posts of @davis.social :)
 - https://bsky.app/profile/davis.social/post/3k5zofjd4pm2v
 > ineffable
 - https://bsky.app/profile/davis.social/post/3k4clxcs4oy2i
-> self notifying
-- https://bsky.app/profile/davis.social/post/3jyyrtpupd32y
-> portfolio day
-- https://bsky.app/profile/davis.social/post/3k2awrrtkbn2u
+> drotter
+- https://bsky.app/profile/davis.social/post/3k5khczsq3g2e
+> t-rex portrait
+- https://bsky.app/profile/davis.social/post/3jzs46cfygl2z
 > discworld death
 - https://bsky.app/profile/davis.social/post/3k27qgpabba2m
 > slaughter melon
@@ -59,6 +61,8 @@ Pinned posts of @davis.social :)
 - https://bsky.app/profile/davis.social/post/3k5djijvvlu22
 > art share july 2023
 - https://bsky.app/profile/davis.social/post/3k3og44kxet2x
+> self notifying
+- https://bsky.app/profile/davis.social/post/3jyyrtpupd32y
 > james hurley head
 - https://bsky.app/profile/davis.social/post/3jxzgngeh2i2s
 
