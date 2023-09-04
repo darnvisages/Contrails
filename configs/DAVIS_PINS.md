@@ -32,13 +32,17 @@ Pinned posts of @davis.social :)
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 > intro post
-- https://bsky.app/profile/davis.social/post/3k27akjusde2j
+- https://bsky.app/profile/davis.social/post/3k6ln34htsq2v
 > if you need me, I'll be in my mind post
 - https://bsky.app/profile/davis.social/post/3jz3qfgbhz22z
 > neil gaiman quote post of - if you need me, I'll be in my mind post
 - https://bsky.app/profile/neilhimself.neilgaiman.com/post/3jz42tfqrke2z
 > pug rincewind
 - https://bsky.app/profile/davis.social/post/3jzvuibkspa26
+> whispers at world's edge
+- https://bsky.app/profile/davis.social/post/3k5zofjd4pm2v
+> ineffable
+- https://bsky.app/profile/davis.social/post/3k4clxcs4oy2i
 > self notifying
 - https://bsky.app/profile/davis.social/post/3jyyrtpupd32y
 > portfolio day
@@ -51,6 +55,8 @@ Pinned posts of @davis.social :)
 - https://bsky.app/profile/davis.social/post/3jxlfxx5n4p23
 > dracarys pig
 - https://bsky.app/profile/davis.social/post/3jzlktivv6w2i
+> art share august 2023
+- https://bsky.app/profile/davis.social/post/3k5djijvvlu22
 > art share july 2023
 - https://bsky.app/profile/davis.social/post/3k3og44kxet2x
 > james hurley head
