@@ -45,14 +45,22 @@ Pinned posts of @davis.social :)
 - https://bsky.app/profile/davis.social/post/3k5zofjd4pm2v
 > ineffable
 - https://bsky.app/profile/davis.social/post/3k4clxcs4oy2i
+> aquila non capit muscas
+- https://bsky.app/profile/davis.social/post/3k72xq7s7ui2j
 > drotter
 - https://bsky.app/profile/davis.social/post/3k5khczsq3g2e
+> aughost winter
+- https://bsky.app/profile/davis.social/post/3k4aiizyjwp2o
 > t-rex portrait
 - https://bsky.app/profile/davis.social/post/3jzs46cfygl2z
 > discworld death
 - https://bsky.app/profile/davis.social/post/3k27qgpabba2m
 > slaughter melon
 - https://bsky.app/profile/davis.social/post/3k2qeuoecvl2i
+> sleeping giant godzilla
+- https://bsky.app/profile/davis.social/post/3k7675nwv6c2c
+> aughost spring
+- https://bsky.app/profile/davis.social/post/3k4b7au3au22i
 > grumpy birb
 - https://bsky.app/profile/davis.social/post/3jxlfxx5n4p23
 > dracarys pig
@@ -61,6 +69,8 @@ Pinned posts of @davis.social :)
 - https://bsky.app/profile/davis.social/post/3k5djijvvlu22
 > art share july 2023
 - https://bsky.app/profile/davis.social/post/3k3og44kxet2x
+> art share september 2023
+- https://bsky.app/profile/davis.social/post/3k7a7ow7j2m24
 > self notifying
 - https://bsky.app/profile/davis.social/post/3jyyrtpupd32y
 > james hurley head
