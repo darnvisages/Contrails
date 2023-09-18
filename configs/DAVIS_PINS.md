@@ -65,12 +65,12 @@ Pinned posts of @davis.social :)
 - https://bsky.app/profile/davis.social/post/3jxlfxx5n4p23
 > dracarys pig
 - https://bsky.app/profile/davis.social/post/3jzlktivv6w2i
+> art share september 2023
+- https://bsky.app/profile/davis.social/post/3k7a7ow7j2m24
 > art share august 2023
 - https://bsky.app/profile/davis.social/post/3k5djijvvlu22
 > art share july 2023
 - https://bsky.app/profile/davis.social/post/3k3og44kxet2x
-> art share september 2023
-- https://bsky.app/profile/davis.social/post/3k7a7ow7j2m24
 > self notifying
 - https://bsky.app/profile/davis.social/post/3jyyrtpupd32y
 > james hurley head
