@@ -33,6 +33,8 @@ Pinned posts of @davis.social :)
 
 > intro post
 - https://bsky.app/profile/davis.social/post/3k6ln34htsq2v
+> discover art feed
+- https://bsky.app/profile/davis.social/post/3k6tg2dews225
 > portfolio day
 - https://bsky.app/profile/davis.social/post/3k2awrrtkbn2u
 > if you need me, I'll be in my mind post
