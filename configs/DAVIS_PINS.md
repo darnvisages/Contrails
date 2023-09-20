@@ -32,7 +32,7 @@ Pinned posts of @davis.social :)
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 > intro post
-- https://bsky.app/profile/davis.social/post/3k6ln34htsq2v
+- https://bsky.app/profile/davis.social/post/3k7tyn52hsm24
 > discover art feed
 - https://bsky.app/profile/davis.social/post/3k6tg2dews225
 > portfolio day
