@@ -35,8 +35,10 @@ Pinned posts of @davis.social :)
 - https://bsky.app/profile/davis.social/post/3k7tyn52hsm24
 > discover art feed
 - https://bsky.app/profile/davis.social/post/3k6tg2dews225
-> portfolio day
-- https://bsky.app/profile/davis.social/post/3k2awrrtkbn2u
+> my art share artwork pt 1
+- https://bsky.app/profile/davis.social/post/3kdyxhuhm6d2o
+> my art share artwork pt 2
+- https://bsky.app/profile/davis.social/post/3kdyxlmyi3s2g
 > art share november 2023
 - https://bsky.app/profile/davis.social/post/3kdyxdebfus2s
 > art share october 2023
