@@ -33,12 +33,16 @@ Pinned posts of @davis.social :)
 
 > intro post
 - https://bsky.app/profile/davis.social/post/3k7tyn52hsm24
+> banjo kazooie
+- https://bsky.app/profile/davis.social/post/3kfjg2t4pqq27
 > discover art feed
 - https://bsky.app/profile/davis.social/post/3k6tg2dews225
 > my art share artwork pt 1
 - https://bsky.app/profile/davis.social/post/3kdyxhuhm6d2o
 > my art share artwork pt 2
 - https://bsky.app/profile/davis.social/post/3kdyxlmyi3s2g
+> art share december 2023
+- https://bsky.app/profile/davis.social/post/3kfxu2kopff2h
 > art share november 2023
 - https://bsky.app/profile/davis.social/post/3kdyxdebfus2s
 > art share october 2023
