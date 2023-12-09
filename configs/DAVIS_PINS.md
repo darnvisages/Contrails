@@ -31,16 +31,14 @@ Pinned posts of @davis.social :)
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
+> if you need me, I'll be in my mind post
+- https://bsky.app/profile/davis.social/post/3jz3qfgbhz22z
 > neil gaiman quote post of - if you need me, I'll be in my mind post
 - https://bsky.app/profile/neilhimself.neilgaiman.com/post/3jz42tfqrke2z
 > banjo kazooie
 - https://bsky.app/profile/davis.social/post/3kfjg2t4pqq27
 > discover art feed
 - https://bsky.app/profile/davis.social/post/3k6tg2dews225
-> my art share artwork pt 1
-- https://bsky.app/profile/davis.social/post/3kdyxhuhm6d2o
-> my art share artwork pt 2
-- https://bsky.app/profile/davis.social/post/3kdyxlmyi3s2g
 > art share december 2023
 - https://bsky.app/profile/davis.social/post/3kfxu2kopff2h
 > art share november 2023
@@ -53,8 +51,10 @@ Pinned posts of @davis.social :)
 - https://bsky.app/profile/davis.social/post/3k5djijvvlu22
 > art share july 2023
 - https://bsky.app/profile/davis.social/post/3k3og44kxet2x
-> if you need me, I'll be in my mind post
-- https://bsky.app/profile/davis.social/post/3jz3qfgbhz22z
+> my art share artwork pt 1
+- https://bsky.app/profile/davis.social/post/3kdyxhuhm6d2o
+> my art share artwork pt 2
+- https://bsky.app/profile/davis.social/post/3kdyxlmyi3s2g
 > pug rincewind
 - https://bsky.app/profile/davis.social/post/3jzvuibkspa26
 > whispers at world's edge
