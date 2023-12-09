@@ -31,8 +31,8 @@ Pinned posts of @davis.social :)
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-> intro post
-- https://bsky.app/profile/davis.social/post/3k7tyn52hsm24
+> neil gaiman quote post of - if you need me, I'll be in my mind post
+- https://bsky.app/profile/neilhimself.neilgaiman.com/post/3jz42tfqrke2z
 > banjo kazooie
 - https://bsky.app/profile/davis.social/post/3kfjg2t4pqq27
 > discover art feed
@@ -55,8 +55,6 @@ Pinned posts of @davis.social :)
 - https://bsky.app/profile/davis.social/post/3k3og44kxet2x
 > if you need me, I'll be in my mind post
 - https://bsky.app/profile/davis.social/post/3jz3qfgbhz22z
-> neil gaiman quote post of - if you need me, I'll be in my mind post
-- https://bsky.app/profile/neilhimself.neilgaiman.com/post/3jz42tfqrke2z
 > pug rincewind
 - https://bsky.app/profile/davis.social/post/3jzvuibkspa26
 > whispers at world's edge
