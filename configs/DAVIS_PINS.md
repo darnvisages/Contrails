@@ -39,6 +39,8 @@ Pinned posts of @davis.social :)
 - https://bsky.app/profile/davis.social/post/3kfjg2t4pqq27
 > discover art feed
 - https://bsky.app/profile/davis.social/post/3k6tg2dews225
+> art share february 2024
+- https://bsky.app/profile/davis.social/post/3klhzrnctws2b
 > art share december 2023
 - https://bsky.app/profile/davis.social/post/3kfxu2kopff2h
 > art share november 2023
@@ -55,6 +57,10 @@ Pinned posts of @davis.social :)
 - https://bsky.app/profile/davis.social/post/3kdyxhuhm6d2o
 > my art share artwork pt 2
 - https://bsky.app/profile/davis.social/post/3kdyxlmyi3s2g
+> kitty tower
+- https://bsky.app/profile/davis.social/post/3klj2e3rdmi2i
+> dog pile
+- https://bsky.app/profile/davis.social/post/3klkr74emtb2q
 > pug rincewind
 - https://bsky.app/profile/davis.social/post/3jzvuibkspa26
 > whispers at world's edge
